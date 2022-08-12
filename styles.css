@@ -1,0 +1,45 @@
+* {
+  font-family: Roboto;
+  text-align: center;
+}
+
+h1 {
+  background-color: #fe2b20;
+  color: #ffb3b3;
+}
+
+h2 {
+  background-color: #fe6159;
+}
+
+.name {
+  background-color: #fe7c75
+}
+
+.id {
+  background-color: #fece75;
+}
+
+.class {
+  background-color: #fec459;
+}
+
+.astericks {
+  background-color: #feb020;
+}
+
+#name{
+  background-color: #fe7c75
+}
+
+#id{
+  background-color: #fece75;
+}
+
+#class{
+  background-color: #fec459;
+}
+
+#astericks{
+  background-color: #feb020;
+}
