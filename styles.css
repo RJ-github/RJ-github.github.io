@@ -1,45 +1,40 @@
 * {
   font-family: Roboto;
+}
+
+.header {
+  background-color: #2e85ff;
+  color: #9DC6FF;
+  height: 100px;
+  width: auto;
   text-align: center;
 }
 
-h1 {
-  background-color: #fe2b20;
-  color: #ffb3b3;
-}
-
-h2 {
-  background-color: #fe6159;
+.content {
+  text-align: center;
+  background-color: #6998ff;
+  color: #0150FF;
+  display: grid;
+  padding: 10px;
+  font-weight: 900;
 }
 
 .name {
-  background-color: #fe7c75
+  background-color: #8fabff;
+  color: #285EFF;
 }
 
 .id {
-  background-color: #fece75;
+  background-color: #aebfff;
+  color: #486FFF;
 }
 
 .class {
-  background-color: #fec459;
+  background-color: #cbd4ff;
+  color: #6580FF;
 }
 
 .astericks {
-  background-color: #feb020;
-}
-
-#name{
-  background-color: #fe7c75
-}
-
-#id{
-  background-color: #fece75;
-}
-
-#class{
-  background-color: #fec459;
-}
-
-#astericks{
-  background-color: #feb020;
+  background-color: #e5e9ff;
+  color: #7F93FF;
 }
